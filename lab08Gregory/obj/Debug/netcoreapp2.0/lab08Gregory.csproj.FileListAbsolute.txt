@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\bin\Debug\netcoreapp2.0\lab08Gregory.deps.json
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\bin\Debug\netcoreapp2.0\lab08Gregory.runtimeconfig.json
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\bin\Debug\netcoreapp2.0\lab08Gregory.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\bin\Debug\netcoreapp2.0\lab08Gregory.dll
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\obj\Debug\netcoreapp2.0\lab08Gregory.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\obj\Debug\netcoreapp2.0\lab08Gregory.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\obj\Debug\netcoreapp2.0\lab08Gregory.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\obj\Debug\netcoreapp2.0\lab08Gregory.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\bin\Debug\netcoreapp2.0\lab08Gregory.pdb
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\obj\Debug\netcoreapp2.0\lab08Gregory.dll
+C:\Users\admin\codefellows\401\lab08-LINQ\lab08Gregory\obj\Debug\netcoreapp2.0\lab08Gregory.pdb
